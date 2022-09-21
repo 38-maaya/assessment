@@ -35,7 +35,6 @@ assessmentButton.onclick = () => {
 
   // headerDivided と bodyDivided を resultDivided に差し込む
   resultDivided.appendChild(headerDivided);
-  <div id="tweet-area" class="mt-3"></div>
   resultDivided.appendChild(bodyDivided);
   
   // TODO ツイートエリアの作成
